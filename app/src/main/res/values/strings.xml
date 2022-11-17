@@ -3,6 +3,5 @@
     <string name="correo">Correo</string>
     <string name="contrasenya">Contraseña</string>
     <string name="olvidarcontraseña">¿Olvidaste tu contraseña?</string>
-    <string name="EditEmail">Correo</string>
     <string name="IniciarSesion">INICIAR SESIÓN</string>
 </resources>

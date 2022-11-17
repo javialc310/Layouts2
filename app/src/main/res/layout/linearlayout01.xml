@@ -25,17 +25,19 @@
         android:layout_marginRight="50dp"
         android:layout_marginBottom="30dp"
         android:hint="@string/correo"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:minHeight="48dp" />
 
     <EditText
+        android:id="@+id/editTextTextPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/contrasenya"
-        android:id="@+id/editTextTextPassword"
-        android:inputType="textPassword"
         android:layout_marginLeft="50dp"
         android:layout_marginRight="50dp"
-        android:layout_marginBottom="10dp"/>
+        android:layout_marginBottom="10dp"
+        android:hint="@string/contrasenya"
+        android:inputType="textPassword"
+        android:minHeight="48dp" />
 
     <Button
         android:layout_width="match_parent"
