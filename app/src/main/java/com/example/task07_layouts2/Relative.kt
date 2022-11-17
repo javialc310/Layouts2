@@ -3,9 +3,9 @@ package com.example.task07_layouts2
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class Calculadora : AppCompatActivity() {
+class Relative : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_calculadora)
+        setContentView(R.layout.relativalayout)
     }
 }

@@ -21,4 +21,10 @@
         <item>Jardinería</item>
     </string-array>
 
+    <string name="Linear">Layout Linear</string>
+    <string name="Relative">Layout Relative</string>
+    <string name="Table">Layout Table</string>
+    <string name="Grid">Layout Grid</string>
+    <string name="elige">Elige, cual quieres ver.</string>
+
 </resources>
