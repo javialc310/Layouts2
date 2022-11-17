@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Task07-Layouts2</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenya">Contraseña</string>
+    <string name="olvidarcontraseña">¿Olvidaste tu contraseña?</string>
+    <string name="IniciarSesion">INICIAR SESIÓN</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="estado">Estado Civil</string>
+    <string name="cargo">Cargo</string>
+    <string-array name="estados">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Viudo</item>
+        <item>Prefiero no decirlo</item>
+    </string-array>
+    <string-array name="cargos">
+        <item>Ventas</item>
+        <item>Informática</item>
+        <item>Jardinería</item>
+    </string-array>
+
+    <string name="Linear">Layout Linear</string>
+    <string name="Relative">Layout Relative</string>
+    <string name="Table">Layout Table</string>
+    <string name="Grid">Layout Grid</string>
+    <string name="elige">Elige, cual quieres ver.</string>
+
 </resources>
