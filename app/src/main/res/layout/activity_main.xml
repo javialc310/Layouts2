@@ -28,4 +28,5 @@
         android:hint="@string/EditEmail"
         android:inputType="textEmailAddress"
         android:minHeight="48dp" />
+
 </LinearLayout>
