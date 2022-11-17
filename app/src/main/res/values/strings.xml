@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Task07-Layouts2</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenya">Contraseña</string>
+    <string name="olvidarcontraseña">¿Olvidaste tu contraseña?</string>
     <string name="EditEmail">Correo</string>
 </resources>
