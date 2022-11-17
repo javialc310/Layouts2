@@ -3,13 +3,9 @@ package com.example.task07_layouts2
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity : AppCompatActivity() {
+class TableLay : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.linearlayout01)
+        setContentView(R.layout.activity_table_lay)
     }
-    //Prueba de commit
-    //Cambio en dev
-    //Final 3
-
 }
