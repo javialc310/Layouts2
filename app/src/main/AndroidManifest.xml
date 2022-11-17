@@ -20,14 +20,14 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".Linear"
+            android:name=".LinearLayout"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".LinearLayout"
+            android:name=".Relative"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -41,7 +41,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".Calculadora"
+            android:name=".Grid"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
